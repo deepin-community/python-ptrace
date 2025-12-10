@@ -1,3 +1,10 @@
+python-ptrace (0.9.9-0.2) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Add build-dependes on python3-setuptools (Closes: #1080761)
+
+ -- Alexandre Detiste <tchet@debian.org>  Sat, 22 Mar 2025 14:33:58 +0100
+
 python-ptrace (0.9.9-0.1) unstable; urgency=medium
 
   * Non-maintainer upload.
